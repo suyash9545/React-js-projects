@@ -1,0 +1,34 @@
+{
+  "resume": [
+    {
+      "id": 1,
+      "name": "suyash chilwarwar",
+      "email": "chilwarwarsuyash2@gmail.com",
+      "phone": "9545990489",
+      "address": "near post office ",
+      "city": "Rajura",
+      "state": "maharashtra",
+      "summary": "Even if you’re a habitué of Word of the Day, you haven’t seen our March words in these ways! Challenge yourself to our comprehensive quiz!",
+      "hobbie": "my hobies are learning the technical aspects",
+      "ten": "infant jesus english public high school",
+      "twelve": "Atulesh comvent junior collage",
+      "collage": "shri saht gajanan maharaj collage of egineering",
+      "skill": "c++,c,python,react js,HTML, css"
+    },
+    {
+      "name": "ffff",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "summary": "",
+      "hobbie": "",
+      "ten": "",
+      "twelve": "",
+      "collage": "",
+      "skill": "",
+      "id": 2
+    }
+  ]
+}

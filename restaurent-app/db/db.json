@@ -1,0 +1,95 @@
+{
+  "signup": [
+    {
+      "id": "1",
+      "name": "suyash chilwarwar",
+      "email": "chilwarwarsuyash2@gmail.com",
+      "dob": "29/04/2000",
+      "username": "suyash",
+      "password": "suyash@123"
+    },
+    {
+      "name": "santosh",
+      "email": "santosh@gmail.com",
+      "username": "santosh",
+      "password": "santosh@123",
+      "dob": "2/2/1974",
+      "id": "k7Is3Zu"
+    },
+    {
+      "name": "suvarna",
+      "email": "suvarna@gmail.com",
+      "DOB": null,
+      "username": "suvarna",
+      "password": "suvarna1234",
+      "dob": "4/7/1979",
+      "id": "FSA8kcW"
+    },
+    {
+      "name": null,
+      "email": null,
+      "DOB": null,
+      "username": null,
+      "password": null,
+      "id": "jj-A2vI"
+    },
+    {
+      "name": null,
+      "email": null,
+      "DOB": null,
+      "username": null,
+      "password": null,
+      "id": "qWgryCO"
+    }
+  ],
+  "login": [
+    {
+      "name": "suyash",
+      "password": "suyash@123"
+    }
+  ],
+  "restaurent": [
+    {
+      "id": 4,
+      "name": "BBQ nation",
+      "address": "Gujarat",
+      "rating": "4.5",
+      "email": "BBQ@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "Haldiram@test.com"
+    },
+    {
+      "id": 6,
+      "name": "kfc",
+      "address": "Nagpur",
+      "rating": "3.5",
+      "email": "kfc@test.com"
+    },
+    {
+      "name": "balaji",
+      "email": "balaji@gmail.com",
+      "rating": "3.4",
+      "address": "Rajura",
+      "id": 7
+    },
+    {
+      "name": "suyash",
+      "email": "chilwarwarsuyash2@gmail.com",
+      "rating": "5",
+      "address": "Rajura",
+      "id": 8
+    },
+    {
+      "name": "q",
+      "email": "q",
+      "rating": "q",
+      "address": "q",
+      "id": 9
+    }
+  ]
+}

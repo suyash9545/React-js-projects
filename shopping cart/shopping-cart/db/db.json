@@ -1,0 +1,19 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "product": "tomato",
+      "prise": "30"
+    },
+    {
+      "id": 2,
+      "product": "brocolli",
+      "prise": "30"
+    },
+    {
+      "product": "",
+      "prise": "",
+      "id": 3
+    }
+  ]
+}

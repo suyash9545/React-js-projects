@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.mydiv{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 7%;
+  box-shadow: 2px 2px 18px black;
+  padding: 10px;
+  border: 2px solid red;
+  border-radius: 15px;
+}
+.inp{
+  padding: 5px;
+  border-radius: 10px;
+}
+.image{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item{
+  width: 30%;
+  margin: 5px;
+}
